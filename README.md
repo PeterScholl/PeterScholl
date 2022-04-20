@@ -1,0 +1,3 @@
+- 👋 Hi, I’m PeterScholl
+- 👀 I’m interested in java,php,...
+- 🌱 I’m currently learning a lot ;-) so knowing less
